@@ -792,7 +792,7 @@ ol {
 }
 .blog__item.latest__item:hover {
   border: 1px solid #222222 !important;
-  background: url(../img/blog/blog-1.jpg);
+  background: url(../img/blog/bg2.jpg);
   background-size: cover;
 }
 
@@ -1181,7 +1181,7 @@ ol {
   Services Page
 -----------------------*/
 .services-page {
-  background-image: url(/home/l/Desktop/website/img/ser.jpg);
+  background-image: url(../img/ser.jpg);
   padding-bottom: 50px;
 }
 
@@ -1189,7 +1189,7 @@ ol {
   Logo
 -----------------------*/
 .logo {
-  background-image: url(/home/l/Desktop/website/img/ser.jpg);
+  background-image: url(../img/ser.jpg);
   padding: 100px 20px;
 }
 
@@ -1359,7 +1359,7 @@ ol {
 }
 .blog__item:hover {
   border: 1px solid transparent !important;
-  background: url(../img/blog/blog-2.jpg) no-repeat;
+  background: url(../img/blog/blog-1.jpg) no-repeat;
   background-size: cover;
 }
 .blog__item:hover ul li {
